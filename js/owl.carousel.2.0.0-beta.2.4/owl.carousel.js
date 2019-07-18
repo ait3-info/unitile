@@ -1,3 +1,4 @@
+//<![CDATA[
 /**
  * Owl carousel
  * @version 2.0.0
@@ -3067,3 +3068,4 @@
 	$.fn.owlCarousel.Constructor.Plugins.Hash = Hash;
 
 })(window.Zepto || window.jQuery, window, document);
+//]]>
